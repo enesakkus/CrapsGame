@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572355541 source:c:\users\ethem\desktop\c programming\19-) functions5(craps_game)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
